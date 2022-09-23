@@ -15,4 +15,5 @@ This Project is to help plan daily events or a busy scheduled person in order to
 * WHEN I refresh the page
 * THEN the saved events persist
 ## live View
+link; https://sylviaprabudy.github.io/work-day-scheduler/
 <img width="1440" alt="Screen Shot 2022-09-23 at 6 01 06 PM" src="https://user-images.githubusercontent.com/112361368/192052009-42c7345b-32b8-421e-bf11-b142710aed01.png">
